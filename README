@@ -1,0 +1,1 @@
+For this assignment I made connect 4. To compile, type make in console. Run the program with ./c4 To play, use the up and down arrows to select your row. Use 's' to drop a chip. The game ends when a player connects 4 chips in a row, diagonally, vertically, or horizotally.
